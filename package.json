@@ -1,0 +1,11 @@
+{
+    "name" : "node-js",
+    "main": "server.js",
+    "dependencies": {
+        "express" : "~4.13.4",
+        "mongoose" : "~4.4.20",
+        "body-parser" : "~1.15.1",
+        "morgan" : "~1.7.0",
+        "jsonwebtoken": "~7.0.0"
+    }
+}
